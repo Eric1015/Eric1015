@@ -28,6 +28,14 @@
 <br />
 <br />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/boyi-yao" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eric1015" /></a>
+</p>
+
+<br />
+<br />
+
 Your lucky pick joke:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
