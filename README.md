@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Boyi Yao 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric1015&label=Profile%20views&color=0e75b6&style=flat" alt="Eric1015" /> </p>
+
 - 🌱 I’m currently learning blockchain
 - 💻 Tech Interest: mobile application, AR, blockchain
 - ❤️ Hobby: Game 🎮, Cooking 👨‍🍳, Travel ✈️
