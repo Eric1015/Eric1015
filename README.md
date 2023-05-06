@@ -1,5 +1,13 @@
 ### Hi 👋, I'm Boyi Yao 
 
+- 🌱 I’m currently learning blockchain
+- 💻 Tech Interest: mobile application, AR, blockchain
+- ❤️ Hobby: Game 🎮, Cooking 👨‍🍳, Travel ✈️
+- ⚡ Fun fact: Born and raised in 🇯🇵 with 🇨🇳 family, based in Vancouver 🇨🇦
+
+
+
+
 <!--
 **Eric1015/Eric1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
