@@ -23,6 +23,7 @@
 - 💻 Tech Interest: mobile application, AR, blockchain
 - ❤️ Hobby: Game 🎮, Cooking 👨‍🍳, Travel ✈️
 - ⚡ Fun fact: Born and raised in 🇯🇵 with 🇨🇳 family, based in Vancouver 🇨🇦
+- 🏙️ Visited cities: Tokyo, Vancouver, Toronto, Los Angels, Seattle, Melbourne, Cancun, Beijing
 
 <br />
 <br />
