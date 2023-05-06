@@ -8,6 +8,8 @@
 - ⚡ Fun fact: Born and raised in 🇯🇵 with 🇨🇳 family, based in Vancouver 🇨🇦
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eric1015&" alt="Eric1015" /></p>
+
 
 
 <!--
