@@ -3,6 +3,13 @@
 
 <br />
 
+<div align="left">
+  
+[![Boyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric1015&show_icons=true&theme=tokyonight&count_private=true)](#typescriptjavascript)
+[![Boyi's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Eric1015&theme=tokyonight)](#typescriptjavascript)
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric1015&label=Profile%20views&color=0e75b6&style=flat" alt="Eric1015" /> </p>
 
 <div align="left">
@@ -43,9 +50,6 @@
 Your lucky pick joke:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eric1015&show_icons=true&locale=en&theme=tokyonight" alt="Eric1015" /></p>
 
 <p><img align="center" alt="top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric1015&layout=compact" /></p>
 
