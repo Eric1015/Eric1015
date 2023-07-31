@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Boyi Yao</h1>
-<h3>Full-stack Software Engineer</h3>
 
 <br />
 
