@@ -51,8 +51,6 @@ Your lucky pick joke:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-<p><img align="center" alt="top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric1015&layout=compact" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eric1015&" alt="Eric1015" /></p>
 
 
